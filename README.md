@@ -17,4 +17,4 @@ I wanted to monitor my Discord server’s voice activity and track some fun metr
 
 ## Goal
 Build heatmaps and stats in Grafana to help decide when to host events (e.g., Dungeons & Dragons sessions or gaming nights). 
-With enough data, we should see clear patterns about when people are most active—and that’s just freaking cool, don’t you think? :D
+With enough data, we should see clear patterns about when people are most active(and probably most likely to participate)—and that’s just freaking cool, don’t you think? :D
