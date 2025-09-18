@@ -1,11 +1,16 @@
-# Env files
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Env & secrets
 .env
-.env.*
 *.env
-*.env.*
+.env.*
 
 # Logs
 *.log
-*.log.*
 logs/
-log/
+
+# Local data volumes
+data/
