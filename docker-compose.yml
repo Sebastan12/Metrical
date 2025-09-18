@@ -2,9 +2,7 @@ version: "3.9"
 
 services:
   bot:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: sebastan12/metrical:latest
     container_name: discord-metrical-bot
     env_file:
       - ./.env               # provides DISCORD_TOKEN (kept out of image)
